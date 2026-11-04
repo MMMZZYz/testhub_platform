@@ -75,11 +75,6 @@ TestHub 是一个 AI 驱动的全栈测试管理平台，覆盖测试全流程�
 - Pinia 状态管理、Vue Router、Axios
 - ECharts 可视化、Monaco Editor、vue-i18n 国际化
 
-在进行 Web、API 及自动化测试时，不同地区的网络环境可能带来不同的访问体验。IPWO住宅代理，支持多地区网络环境配置，可用于海外网站访问、区域测试及自动化测试场景。
-
-<u>[IPWO](https://www.ipwo.net/?ref=githubplatform)</u>为 TestHub 用户提供更多测试环境选择，让跨地区测试更加灵活。覆盖全球195+地区动静态IP资源，支持免费测试入口，90折扣码：0204
-![img.png](static_files/img.png)
-
 ## 📁 项目结构
 
 ```
@@ -242,17 +237,6 @@ docker-compose up -d   # 一键启动全栈服务
 
 本项目采用 GPL 3.0 许可证 - 详见 [LICENSE](LICENSE) 文件
 
-## 📧 联系方式
+## 📧 问题反馈
 
-如有问题或建议，欢迎通过 Issue 反馈，也可以扫码添加作者，加入官方交流群。
-![img_1.png](static_files/img_1.png)
-
-<u>[TestHub 官网](https://testhub.aisky.cloud)</u>
-
-使用手册、视频教程、学习中心、Skills商店，欢迎访问TestHub官网。
-![img_2.png](static_files/img_2.png)
----
-
-<div align="center">
-Made with ❤️ by 大刚（公众号：测试开发实战）
-</div>
+如有问题或建议，请通过[本仓库的 Issues](https://github.com/MMMZZYz/testhub_platform/issues)反馈。
